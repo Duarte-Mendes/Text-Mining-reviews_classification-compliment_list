@@ -42,9 +42,9 @@ Random Forest with language flag: Accuracy ≈ 54%
 
 ### NER + Compliment detection:
 
-    Used spaCy models (pt_core_news_lg, en_core_web_lg)
+Used spaCy models (pt_core_news_lg, en_core_web_lg)
 
-    Detected and ranked employees based on positive context
+Detected and ranked employees based on positive context
 
 ---
 
