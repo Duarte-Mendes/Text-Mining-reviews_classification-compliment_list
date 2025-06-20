@@ -28,9 +28,9 @@ Final project for the **Text Mining** course at ISCTE, focusing on **automated s
 
 ### Binary classification (Positive vs. Negative):
 
-        Logistic Regression: F1 ≈ 0.92, Accuracy ≈ 0.92
+Logistic Regression: F1 ≈ 0.92, Accuracy ≈ 0.92
 
-        Naive Bayes: F1 ≈ 0.80
+Naive Bayes: F1 ≈ 0.80
 
 ### Multiclass sentiment classification (1–5 rating):
 
